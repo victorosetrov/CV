@@ -1,0 +1,32 @@
+body {
+  text-align: plain;
+  background-color: #333;
+  font-family: Courier New, monospace;
+  color: #fff;
+}
+
+h1,
+h4 {
+  color: greenyellow;
+}
+
+p {
+  color: orange;
+}
+
+.white {
+  color: white;
+}
+
+.orange,
+ol {
+  color: orange;
+}
+
+.container {
+  display: flexbox;
+  width: 50%;
+  position: relative;
+  justify-content: space-around;
+  margin: auto;
+}
